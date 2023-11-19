@@ -8,7 +8,7 @@ i currently learning coding in a bootcamp for future work :)
 
 * 🌍  I'm based in Jerusalem
 * ✉️  You can contact me at [aziztouma030gmail.com](mailto:aziztouma030gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm currently learning  React,Javascripte,Node.js
 
 <a href="https://www.github.com/azizt24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/azizt24?logo=github&style=for-the-badge&color=000000&labelColor=134e4a" /></a>
