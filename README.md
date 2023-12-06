@@ -32,3 +32,9 @@ src="https://img.shields.io/github/followers/azizt24?logo=github&style=for-the-b
 <a href="http://www.github.com/azizt24"><img src="https://github-readme-stats.vercel.app/api?username=azizt24&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=134e4a&hide_border=true&show_icons=true" alt="azizt24's GitHub stats" /></a>
 
 <a href="https://github.com/azizt24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizt24&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
